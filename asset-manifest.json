@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/MeerSupply/static/css/main.ee7b3e63.css",
-    "main.js": "/MeerSupply/static/js/main.a0038e63.js",
+    "main.css": "/MeerSupply/static/css/main.b6b80201.css",
+    "main.js": "/MeerSupply/static/js/main.65f60525.js",
     "static/js/787.175b3504.chunk.js": "/MeerSupply/static/js/787.175b3504.chunk.js",
     "index.html": "/MeerSupply/index.html",
-    "main.ee7b3e63.css.map": "/MeerSupply/static/css/main.ee7b3e63.css.map",
-    "main.a0038e63.js.map": "/MeerSupply/static/js/main.a0038e63.js.map",
+    "main.b6b80201.css.map": "/MeerSupply/static/css/main.b6b80201.css.map",
+    "main.65f60525.js.map": "/MeerSupply/static/js/main.65f60525.js.map",
     "787.175b3504.chunk.js.map": "/MeerSupply/static/js/787.175b3504.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ee7b3e63.css",
-    "static/js/main.a0038e63.js"
+    "static/css/main.b6b80201.css",
+    "static/js/main.65f60525.js"
   ]
 }
