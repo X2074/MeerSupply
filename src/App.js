@@ -9,7 +9,7 @@ function App() {
     return (
     <div className="App">
       <header className="App-header">
-          <h1><b>Qitmeer Supply Chart</b></h1>
+          <h1><b>Qitmeer Supply Distribution Chart</b></h1>
 
           <div className='supply'>
               {/*<div className='chart'>*/}
